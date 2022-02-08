@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "solidity.compileUsingLocalVersion": "null",
+    "solidity.compileUsingRemoteVersion": "0.8.11+commit.d7f03943.Darwin.appleclang"
+  }
+}
